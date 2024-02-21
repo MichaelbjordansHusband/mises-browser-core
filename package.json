@@ -193,7 +193,7 @@
     "@types/react-router-dom": "^5.1.9",
     "@types/webtorrent": "^0.109.0",
     "array-move": "^2.2.1",
-    "axios": "^0.27.2",
+    "axios": "^0.28.0",
     "big-integer": "^1.6.48",
     "bignumber.js": "^9.0.2",
     "bip32": "^2.0.6",
