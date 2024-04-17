@@ -187,7 +187,7 @@
     "@react-navigation/native": "^6.1.7",
     "@react-navigation/stack": "^6.3.16",
     "@reduxjs/toolkit": "1.8.6",
-    "@solana/web3.js": "1.58.0",
+    "@solana/web3.js": "1.58.1",
     "@types/jszip": "^3.1.6",
     "@types/parse-torrent": "^5.8.3",
     "@types/react-router-dom": "^5.1.9",
